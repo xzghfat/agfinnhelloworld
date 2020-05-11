@@ -1,3 +1,2 @@
-module agfinn.com/xzg
-
+module github.com/xzghfat/agfinnhelloworld
 go 1.14
