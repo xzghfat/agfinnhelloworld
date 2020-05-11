@@ -2,6 +2,6 @@ package xzgprint
 
 import "fmt"
 
-func xzgprint() {
+func Print() {
 	fmt.Println("hello, agfinn")
 }
